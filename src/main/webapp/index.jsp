@@ -1,0 +1,10 @@
+<%  
+    response.sendRedirect("home");
+%>
+
+
+
+
+
+
+
